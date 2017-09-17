@@ -3,10 +3,10 @@
   <channel>
     <title>Kuechenporn – Das Leben ist zu schade um etwas schlechtes zu essen!</title>
     <description>Leckere Rezepte und Bilder von selbstgekochtem Essen.</description>
-    <link>food.dmerkert.de/</link>
-    <atom:link href="food.dmerkert.de/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Sep 2017 16:34:08 +0200</pubDate>
-    <lastBuildDate>Sun, 17 Sep 2017 16:34:08 +0200</lastBuildDate>
+    <link>http://food.dmerkert.de/</link>
+    <atom:link href="http://food.dmerkert.de/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 17 Sep 2017 19:41:31 +0200</pubDate>
+    <lastBuildDate>Sun, 17 Sep 2017 19:41:31 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -41,8 +41,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 10 Sep 2017 00:00:00 +0200</pubDate>
-        <link>food.dmerkert.de/Malzbiergulasch/</link>
-        <guid isPermaLink="true">food.dmerkert.de/Malzbiergulasch/</guid>
+        <link>http://food.dmerkert.de/Malzbiergulasch/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Malzbiergulasch/</guid>
         
         <category>hauptgericht</category>
         
@@ -84,8 +84,8 @@ Oberfläche steigen&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 10 Sep 2017 00:00:00 +0200</pubDate>
-        <link>food.dmerkert.de/Gnocchi/</link>
-        <guid isPermaLink="true">food.dmerkert.de/Gnocchi/</guid>
+        <link>http://food.dmerkert.de/Gnocchi/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Gnocchi/</guid>
         
         <category>grundrezept</category>
         
@@ -115,8 +115,8 @@ oben leicht braun werden&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 10 Sep 2017 00:00:00 +0200</pubDate>
-        <link>food.dmerkert.de/Gnocchi-Al-Forno/</link>
-        <guid isPermaLink="true">food.dmerkert.de/Gnocchi-Al-Forno/</guid>
+        <link>http://food.dmerkert.de/Gnocchi-Al-Forno/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Gnocchi-Al-Forno/</guid>
         
         <category>hauptgericht</category>
         
@@ -149,8 +149,8 @@ vermischen und über die Avocado geben&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 10 Sep 2017 00:00:00 +0200</pubDate>
-        <link>food.dmerkert.de/Avocadobrot/</link>
-        <guid isPermaLink="true">food.dmerkert.de/Avocadobrot/</guid>
+        <link>http://food.dmerkert.de/Avocadobrot/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Avocadobrot/</guid>
         
         <category>vorspeise</category>
         

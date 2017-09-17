@@ -1,1 +1,1 @@
-Sitemap: food.dmerkert.de/sitemap.xml
+Sitemap: http://food.dmerkert.de/sitemap.xml
