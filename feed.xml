@@ -5,9 +5,90 @@
     <description>Leckere Rezepte und Bilder von selbstgekochtem Essen.</description>
     <link>http://food.dmerkert.de/</link>
     <atom:link href="http://food.dmerkert.de/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Sep 2017 22:26:38 +0200</pubDate>
-    <lastBuildDate>Sun, 17 Sep 2017 22:26:38 +0200</lastBuildDate>
+    <pubDate>Sun, 08 Oct 2017 15:43:13 +0200</pubDate>
+    <lastBuildDate>Sun, 08 Oct 2017 15:43:13 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Pizzateig (einfach)</title>
+        <description>&lt;h2 id=&quot;zutaten-3-pizzas&quot;&gt;Zutaten (3 Pizzas)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;1/2 Hefewürfel&lt;/li&gt;
+  &lt;li&gt;200 ml lauwarmes Wasser&lt;/li&gt;
+  &lt;li&gt;1 TL Honig&lt;/li&gt;
+  &lt;li&gt;350 g Mehl&lt;/li&gt;
+  &lt;li&gt;1 TL Salz&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hefe mit Wasser, Honig und Salz vermischen&lt;/li&gt;
+  &lt;li&gt;Alles gut verkneten und 60 Minuten gehen lassen&lt;/li&gt;
+  &lt;li&gt;Teig in drei Teile teilen und sehr dünn ausrollen&lt;/li&gt;
+  &lt;li&gt;Pizzaform mit Olivenöl benetzen und Teig hinein geben&lt;/li&gt;
+  &lt;li&gt;Ofen auf 250 Grad (Ober- und Unterhitze mit Umluft) vorheizen&lt;/li&gt;
+  &lt;li&gt;Pizzaform auf den Boden stellen und ca 5 Minuten backen (gibt lecker dünnen und knusprigen Boden)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 08 Oct 2017 00:00:00 +0200</pubDate>
+        <link>http://food.dmerkert.de/Pizzateig-einfach/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Pizzateig-einfach/</guid>
+        
+        <category>grundrezept</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Pizzasauce</title>
+        <description>&lt;h2 id=&quot;zutaten-5-pizzas&quot;&gt;Zutaten (5 Pizzas)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;1 Knoblauchzehe&lt;/li&gt;
+  &lt;li&gt;1 Schalotte&lt;/li&gt;
+  &lt;li&gt;passiere Tomaten&lt;/li&gt;
+  &lt;li&gt;Oregano&lt;/li&gt;
+  &lt;li&gt;Zucker&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Schalotte in Würfel schneiden und in Öl karamelisieren&lt;/li&gt;
+  &lt;li&gt;Knoblauch in Würfel schneiden und kurz mit anschwitzen&lt;/li&gt;
+  &lt;li&gt;Tomaten und Oregano hinzugeben&lt;/li&gt;
+  &lt;li&gt;ca 45 Minuten mit leicht geöffnetem Deckel köcheln lassen&lt;/li&gt;
+  &lt;li&gt;pürieren&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 08 Oct 2017 00:00:00 +0200</pubDate>
+        <link>http://food.dmerkert.de/Pizzasauce/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Pizzasauce/</guid>
+        
+        <category>grundrezept</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Pizza</title>
+        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/Pizzateig-einfach/&quot;&gt;Pizzateig&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/Pizzasauce/&quot;&gt;Pizzasaue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Büffelmozzarella&lt;/li&gt;
+  &lt;li&gt;italienische Salami&lt;/li&gt;
+  &lt;li&gt;Champignons&lt;/li&gt;
+  &lt;li&gt;Basilikum-Olivenöl-Püree&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 08 Oct 2017 00:00:00 +0200</pubDate>
+        <link>http://food.dmerkert.de/Pizza/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Pizza/</guid>
+        
+        <category>hauptgericht</category>
+        
+        
+      </item>
     
       <item>
         <title>Malzbiergulasch</title>
@@ -157,7 +238,7 @@ transportieren&lt;/li&gt;
 aufgelockert und von dem Olivenöl komplettiert&lt;/li&gt;
   &lt;li&gt;Chili und Pfeffer geben zwei unterschiedliche Arten von Schärfe und geben Kick
 zum Gericht&lt;/li&gt;
-  &lt;li&gt;Der schwarze Sesamt gibt weiteren kleinen Crunch und eine weitere leichte
+  &lt;li&gt;Der schwarze Sesam gibt weiteren kleinen Crunch und eine weitere leichte
 Schärfe und “dunkle” Geschmacksstoffe&lt;/li&gt;
 &lt;/ul&gt;
 </description>
