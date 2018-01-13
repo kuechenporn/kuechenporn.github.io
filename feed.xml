@@ -5,9 +5,43 @@
     <description>Leckere Rezepte und Bilder von selbstgekochtem Essen.</description>
     <link>http://food.dmerkert.de/</link>
     <atom:link href="http://food.dmerkert.de/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Jan 2018 22:19:10 +0100</pubDate>
-    <lastBuildDate>Sat, 13 Jan 2018 22:19:10 +0100</lastBuildDate>
+    <pubDate>Sat, 13 Jan 2018 22:26:52 +0100</pubDate>
+    <lastBuildDate>Sat, 13 Jan 2018 22:26:52 +0100</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Käsebrötchen</title>
+        <description>&lt;h2 id=&quot;zutaten-8-brötchen&quot;&gt;Zutaten (8 Brötchen)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;225g Mehl&lt;/li&gt;
+  &lt;li&gt;1 Prise Salz&lt;/li&gt;
+  &lt;li&gt;3 TL Backpulver&lt;/li&gt;
+  &lt;li&gt;50g Butter&lt;/li&gt;
+  &lt;li&gt;200g herzhafter Käse (oder auch mehr)&lt;/li&gt;
+  &lt;li&gt;1/2 TL Senfkörner&lt;/li&gt;
+  &lt;li&gt;1/2 TL Pfefferkörner&lt;/li&gt;
+  &lt;li&gt;150ml Milch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mehl, Salz, Backpulver, zermahlenen Senf vermischen&lt;/li&gt;
+  &lt;li&gt;Butter in die Masse bröseln&lt;/li&gt;
+  &lt;li&gt;Käse reiben und untermischen&lt;/li&gt;
+  &lt;li&gt;Milch einrühren&lt;/li&gt;
+  &lt;li&gt;Teig zu einer Scheibe formen und Achtel schneiden&lt;/li&gt;
+  &lt;li&gt;Mit zermahlenem Pfeffer bestreuen&lt;/li&gt;
+  &lt;li&gt;Bei 220 Grad 15 Minuten backen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 13 Jan 2018 00:00:00 +0100</pubDate>
+        <link>http://food.dmerkert.de/K%C3%A4sebr%C3%B6tchen/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/K%C3%A4sebr%C3%B6tchen/</guid>
+        
+        <category>brot</category>
+        
+        
+      </item>
     
       <item>
         <title>Flammkuchen</title>
