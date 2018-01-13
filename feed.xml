@@ -5,9 +5,64 @@
     <description>Leckere Rezepte und Bilder von selbstgekochtem Essen.</description>
     <link>http://food.dmerkert.de/</link>
     <atom:link href="http://food.dmerkert.de/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Oct 2017 15:43:13 +0200</pubDate>
-    <lastBuildDate>Sun, 08 Oct 2017 15:43:13 +0200</lastBuildDate>
+    <pubDate>Sat, 13 Jan 2018 22:19:10 +0100</pubDate>
+    <lastBuildDate>Sat, 13 Jan 2018 22:19:10 +0100</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Flammkuchen</title>
+        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/Flammkuchenteig/&quot;&gt;Flammkuchenteig&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Crème fraîche&lt;/li&gt;
+  &lt;li&gt;Zwiebeln&lt;/li&gt;
+  &lt;li&gt;Speck&lt;/li&gt;
+  &lt;li&gt;Muskatnuss, Salz&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Teig teilen und sehr dünn ausrollen&lt;/li&gt;
+  &lt;li&gt;Mit Crème fraîche bestreichen und mit Muskatnuss und Salz bestreuen&lt;/li&gt;
+  &lt;li&gt;Zwiebelringe und Speck verteilen&lt;/li&gt;
+  &lt;li&gt;Ofen auf 250 Grad (Ober- und Unterhitze mit Umluft) vorheizen&lt;/li&gt;
+  &lt;li&gt;Flammkuchen circa 5 Minuten backen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 13 Jan 2018 00:00:00 +0100</pubDate>
+        <link>http://food.dmerkert.de/Flammkuchen/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Flammkuchen/</guid>
+        
+        <category>hauptgericht</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Flammkuchenteig</title>
+        <description>&lt;h2 id=&quot;zutaten-für-3-flammkuchen&quot;&gt;Zutaten (für 3 Flammkuchen)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;225g Mehl&lt;/li&gt;
+  &lt;li&gt;1 Eigelb&lt;/li&gt;
+  &lt;li&gt;115ml kaltes Wasser&lt;/li&gt;
+  &lt;li&gt;1 großer Schuss Olivenöl&lt;/li&gt;
+  &lt;li&gt;3-4g Salz&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Kneten, so dass ein weicher Teig entsteht&lt;/li&gt;
+  &lt;li&gt;10 min ruhen lassen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 22 Oct 2017 00:00:00 +0200</pubDate>
+        <link>http://food.dmerkert.de/Flammkuchenteig/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Flammkuchenteig/</guid>
+        
+        <category>grundrezept</category>
+        
+        
+      </item>
     
       <item>
         <title>Pizzateig (einfach)</title>
@@ -85,7 +140,7 @@
         <link>http://food.dmerkert.de/Pizza/</link>
         <guid isPermaLink="true">http://food.dmerkert.de/Pizza/</guid>
         
-        <category>hauptgericht</category>
+        <category>hauptgang</category>
         
         
       </item>
@@ -125,7 +180,7 @@
         <link>http://food.dmerkert.de/Malzbiergulasch/</link>
         <guid isPermaLink="true">http://food.dmerkert.de/Malzbiergulasch/</guid>
         
-        <category>hauptgericht</category>
+        <category>hauptgang</category>
         
         
       </item>
@@ -199,7 +254,7 @@ oben leicht braun werden&lt;/li&gt;
         <link>http://food.dmerkert.de/Gnocchi-Al-Forno/</link>
         <guid isPermaLink="true">http://food.dmerkert.de/Gnocchi-Al-Forno/</guid>
         
-        <category>hauptgericht</category>
+        <category>hauptgang</category>
         
         
       </item>
