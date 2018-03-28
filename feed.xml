@@ -5,9 +5,41 @@
     <description>Leckere Rezepte und Bilder von selbstgekochtem Essen.</description>
     <link>http://food.dmerkert.de/</link>
     <atom:link href="http://food.dmerkert.de/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Mar 2018 14:05:42 +0200</pubDate>
-    <lastBuildDate>Wed, 28 Mar 2018 14:05:42 +0200</lastBuildDate>
+    <pubDate>Wed, 28 Mar 2018 15:33:41 +0200</pubDate>
+    <lastBuildDate>Wed, 28 Mar 2018 15:33:41 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Rhabarbercrumble</title>
+        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Rhabarber&lt;/li&gt;
+  &lt;li&gt;Zucker&lt;/li&gt;
+  &lt;li&gt;Vanille&lt;/li&gt;
+  &lt;li&gt;Zimt&lt;/li&gt;
+  &lt;li&gt;100g Butter&lt;/li&gt;
+  &lt;li&gt;75g Zucker&lt;/li&gt;
+  &lt;li&gt;200g Mehl&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Rhabarber schälen und in kleine Stücke schneiden&lt;/li&gt;
+  &lt;li&gt;Mit einem Schluck Wasser, Vanille und Zucker nach geschmack weich kochen&lt;/li&gt;
+  &lt;li&gt;Zimt, Zucker und Mehl vermischen&lt;/li&gt;
+  &lt;li&gt;Butter in kleinen Stücken hinzugeben und zu Streuseln verreiben&lt;/li&gt;
+  &lt;li&gt;Rhabarber in Auflaufform füllen und mit Streuseln verreiben&lt;/li&gt;
+  &lt;li&gt;Bei 180 Grad backen, bis die Streusel braun sind&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 28 Mar 2018 00:00:00 +0200</pubDate>
+        <link>http://food.dmerkert.de/Rhabarbercrumble/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Rhabarbercrumble/</guid>
+        
+        <category>dessert</category>
+        
+        
+      </item>
     
       <item>
         <title>Reissuppe</title>
@@ -272,46 +304,6 @@ verschwinden&lt;/li&gt;
         <pubDate>Sun, 08 Oct 2017 00:00:00 +0200</pubDate>
         <link>http://food.dmerkert.de/Pizza/</link>
         <guid isPermaLink="true">http://food.dmerkert.de/Pizza/</guid>
-        
-        <category>hauptgang</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Malzbiergulasch</title>
-        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;durchwachsenes Rindfleisch&lt;/li&gt;
-  &lt;li&gt;1 Paprika&lt;/li&gt;
-  &lt;li&gt;1 Metzgerzwiebel&lt;/li&gt;
-  &lt;li&gt;2 Schalotten&lt;/li&gt;
-  &lt;li&gt;1 Malzbier (z.B. Karamalz)&lt;/li&gt;
-  &lt;li&gt;Paprika edelsüß&lt;/li&gt;
-  &lt;li&gt;Paprika scharf&lt;/li&gt;
-  &lt;li&gt;Lorbeer&lt;/li&gt;
-  &lt;li&gt;Salz&lt;/li&gt;
-  &lt;li&gt;Kartoffeln&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Rindfleisch in Würfel schneiden&lt;/li&gt;
-  &lt;li&gt;Zwiebel und Schalotten in große Stücke schneiden&lt;/li&gt;
-  &lt;li&gt;Fleisch scharf anbraten&lt;/li&gt;
-  &lt;li&gt;Zwiebel und Schalotten hinzugeben&lt;/li&gt;
-  &lt;li&gt;Mit Bier ablöschen&lt;/li&gt;
-  &lt;li&gt;Paprika und Lorbeer hinzugeben&lt;/li&gt;
-  &lt;li&gt;20 Minuten kochen lassen&lt;/li&gt;
-  &lt;li&gt;Paprika in langen Streifen hinzugeben&lt;/li&gt;
-  &lt;li&gt;20 Minuten kochen&lt;/li&gt;
-  &lt;li&gt;Kartoffeln als Würfel hinzugeben&lt;/li&gt;
-  &lt;li&gt;20 Minuten kochen&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 10 Sep 2017 00:00:00 +0200</pubDate>
-        <link>http://food.dmerkert.de/Malzbiergulasch/</link>
-        <guid isPermaLink="true">http://food.dmerkert.de/Malzbiergulasch/</guid>
         
         <category>hauptgang</category>
         
