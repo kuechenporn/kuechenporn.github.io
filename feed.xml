@@ -5,9 +5,35 @@
     <description>Leckere Rezepte und Bilder von selbstgekochtem Essen.</description>
     <link>http://food.dmerkert.de/</link>
     <atom:link href="http://food.dmerkert.de/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Mar 2018 15:33:41 +0200</pubDate>
-    <lastBuildDate>Wed, 28 Mar 2018 15:33:41 +0200</lastBuildDate>
+    <pubDate>Sun, 28 Oct 2018 13:43:36 +0100</pubDate>
+    <lastBuildDate>Sun, 28 Oct 2018 13:43:36 +0100</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Pfannkuchen</title>
+        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;300 g Mehl&lt;/li&gt;
+  &lt;li&gt;3 Eier&lt;/li&gt;
+  &lt;li&gt;Milch&lt;/li&gt;
+  &lt;li&gt;Saurer Sprudel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mehl, Eier und Milch verrühren und 10 Minuten ruhen lassen&lt;/li&gt;
+  &lt;li&gt;Sprudel unterrühren, bis der Teig relativ dünnflüssig ist&lt;/li&gt;
+  &lt;li&gt;Pfannkuchen bei mittlerer Hitze dünn beidseitig ausbraten (circa ein Schöpflöffel pro Pfanne)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 20 Oct 2018 00:00:00 +0200</pubDate>
+        <link>http://food.dmerkert.de/Pfannkuchen/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Pfannkuchen/</guid>
+        
+        <category>hauptgericht</category>
+        
+        
+      </item>
     
       <item>
         <title>Rhabarbercrumble</title>
@@ -284,28 +310,6 @@ verschwinden&lt;/li&gt;
         <guid isPermaLink="true">http://food.dmerkert.de/Pizzasauce/</guid>
         
         <category>grundrezept</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Pizza</title>
-        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/Pizzateig-einfach/&quot;&gt;Pizzateig&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/Pizzasauce/&quot;&gt;Pizzasaue&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Büffelmozzarella&lt;/li&gt;
-  &lt;li&gt;italienische Salami&lt;/li&gt;
-  &lt;li&gt;Champignons&lt;/li&gt;
-  &lt;li&gt;Basilikum-Olivenöl-Püree&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sun, 08 Oct 2017 00:00:00 +0200</pubDate>
-        <link>http://food.dmerkert.de/Pizza/</link>
-        <guid isPermaLink="true">http://food.dmerkert.de/Pizza/</guid>
-        
-        <category>hauptgang</category>
         
         
       </item>
