@@ -5,9 +5,52 @@
     <description>Leckere Rezepte und Bilder von selbstgekochtem Essen.</description>
     <link>http://food.dmerkert.de/</link>
     <atom:link href="http://food.dmerkert.de/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Oct 2018 13:43:36 +0100</pubDate>
-    <lastBuildDate>Sun, 28 Oct 2018 13:43:36 +0100</lastBuildDate>
+    <pubDate>Sun, 28 Oct 2018 13:46:35 +0100</pubDate>
+    <lastBuildDate>Sun, 28 Oct 2018 13:46:35 +0100</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Haschee</title>
+        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;500g gemischtes Hackfleisch&lt;/li&gt;
+  &lt;li&gt;2 große Zwiebeln&lt;/li&gt;
+  &lt;li&gt;Tomatenmark&lt;/li&gt;
+  &lt;li&gt;1 EL Paprikapulver süß&lt;/li&gt;
+  &lt;li&gt;2 EL Paprikapulver scharf&lt;/li&gt;
+  &lt;li&gt;2 TL Pfeffer&lt;/li&gt;
+  &lt;li&gt;1 EL Oregano&lt;/li&gt;
+  &lt;li&gt;500ml Fleischbrühe&lt;/li&gt;
+  &lt;li&gt;15 g Butter&lt;/li&gt;
+  &lt;li&gt;1 TL Senf&lt;/li&gt;
+  &lt;li&gt;1 EL Mehl&lt;/li&gt;
+  &lt;li&gt;Kartoffeln&lt;/li&gt;
+  &lt;li&gt;Nudeln&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Zwiebel grob hacken.&lt;/li&gt;
+  &lt;li&gt;Zwiebeln mit Olivenöl und Zucker ganz langsam hellbraun braten, Butter zugeben. Mit 1EL scharfer Paprika und Pfeffer richtig braun braten.&lt;/li&gt;
+  &lt;li&gt;Zwiebeln beiseite stellen&lt;/li&gt;
+  &lt;li&gt;Hackfleisch in Olivenöl durchbraten, Zwiebeln wieder hinzugeben und weiterbraten&lt;/li&gt;
+  &lt;li&gt;Mit Brühe ablöschen&lt;/li&gt;
+  &lt;li&gt;Gewürze, Senf und Tomatenmark hinzugeben.&lt;/li&gt;
+  &lt;li&gt;Mehl in ein wenig Wasser einrühren und ins kochende Essen einrühren.&lt;/li&gt;
+  &lt;li&gt;Mit Kartoffeln und Nudeln servieren&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 28 Oct 2018 00:00:00 +0200</pubDate>
+        <link>http://food.dmerkert.de/Haschee/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Haschee/</guid>
+        
+        <category>hauptgericht</category>
+        
+        
+      </item>
     
       <item>
         <title>Pfannkuchen</title>
@@ -279,35 +322,6 @@ verschwinden&lt;/li&gt;
         <pubDate>Sun, 08 Oct 2017 00:00:00 +0200</pubDate>
         <link>http://food.dmerkert.de/Pizzateig-einfach/</link>
         <guid isPermaLink="true">http://food.dmerkert.de/Pizzateig-einfach/</guid>
-        
-        <category>grundrezept</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Pizzasauce</title>
-        <description>&lt;h2 id=&quot;zutaten-5-pizzas&quot;&gt;Zutaten (5 Pizzas)&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;1 Knoblauchzehe&lt;/li&gt;
-  &lt;li&gt;1 Schalotte&lt;/li&gt;
-  &lt;li&gt;passiere Tomaten&lt;/li&gt;
-  &lt;li&gt;Oregano&lt;/li&gt;
-  &lt;li&gt;Zucker&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Schalotte in Würfel schneiden und in Öl karamelisieren&lt;/li&gt;
-  &lt;li&gt;Knoblauch in Würfel schneiden und kurz mit anschwitzen&lt;/li&gt;
-  &lt;li&gt;Tomaten und Oregano hinzugeben&lt;/li&gt;
-  &lt;li&gt;ca 45 Minuten mit leicht geöffnetem Deckel köcheln lassen&lt;/li&gt;
-  &lt;li&gt;pürieren&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 08 Oct 2017 00:00:00 +0200</pubDate>
-        <link>http://food.dmerkert.de/Pizzasauce/</link>
-        <guid isPermaLink="true">http://food.dmerkert.de/Pizzasauce/</guid>
         
         <category>grundrezept</category>
         
