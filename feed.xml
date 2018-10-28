@@ -5,8 +5,8 @@
     <description>Leckere Rezepte und Bilder von selbstgekochtem Essen.</description>
     <link>http://food.dmerkert.de/</link>
     <atom:link href="http://food.dmerkert.de/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Oct 2018 13:46:35 +0100</pubDate>
-    <lastBuildDate>Sun, 28 Oct 2018 13:46:35 +0100</lastBuildDate>
+    <pubDate>Sun, 28 Oct 2018 14:29:32 +0100</pubDate>
+    <lastBuildDate>Sun, 28 Oct 2018 14:29:32 +0100</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -46,6 +46,101 @@
         <pubDate>Sun, 28 Oct 2018 00:00:00 +0200</pubDate>
         <link>http://food.dmerkert.de/Haschee/</link>
         <guid isPermaLink="true">http://food.dmerkert.de/Haschee/</guid>
+        
+        <category>hauptgericht</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Gulaschsuppe</title>
+        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;500g Rind&lt;/li&gt;
+  &lt;li&gt;1 große Zwiebel&lt;/li&gt;
+  &lt;li&gt;1 rote Paprika&lt;/li&gt;
+  &lt;li&gt;1 gelbe Paprika&lt;/li&gt;
+  &lt;li&gt;2EL Tomatenmark&lt;/li&gt;
+  &lt;li&gt;1EL Paprikapulver süß&lt;/li&gt;
+  &lt;li&gt;1EL Paprikapulver scharf&lt;/li&gt;
+  &lt;li&gt;350ml Rotwein&lt;/li&gt;
+  &lt;li&gt;600ml Fleischbrühe&lt;/li&gt;
+  &lt;li&gt;Kartoffeln&lt;/li&gt;
+  &lt;li&gt;1TL Kümmel&lt;/li&gt;
+  &lt;li&gt;Salz&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Zwiebeln kleinhacken, ganz langsam mit Zucker bräunen&lt;/li&gt;
+  &lt;li&gt;Fleisch anbraten&lt;/li&gt;
+  &lt;li&gt;Paprika hinzugeben&lt;/li&gt;
+  &lt;li&gt;Mit Wein und Brühe ablösen und Gewürze hinzugeben&lt;/li&gt;
+  &lt;li&gt;40 Minuten kochen&lt;/li&gt;
+  &lt;li&gt;Kartoffeln und Kümmel hinzufügen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 28 Oct 2018 00:00:00 +0200</pubDate>
+        <link>http://food.dmerkert.de/Gulaschsuppe/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Gulaschsuppe/</guid>
+        
+        <category>hauptgericht</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Crepesteig</title>
+        <description>&lt;h2 id=&quot;zutaten-für-6-crepes&quot;&gt;Zutaten (für 6 Crepes)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;150g Mehl&lt;/li&gt;
+  &lt;li&gt;2 Eier&lt;/li&gt;
+  &lt;li&gt;250ml Milch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Alles vermischen und die Crepes bei Stufe 7 backen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 28 Oct 2018 00:00:00 +0200</pubDate>
+        <link>http://food.dmerkert.de/Crepesteig/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Crepesteig/</guid>
+        
+        <category>grundrezept</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Crepes</title>
+        <description>&lt;h2 id=&quot;zutaten-für-6-crepes&quot;&gt;Zutaten (für 6 Crepes)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/Crepesteig/&quot;&gt;Crepesteig&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;variante-salzig&quot;&gt;Variante Salzig&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Schinken&lt;/li&gt;
+  &lt;li&gt;Käse&lt;/li&gt;
+  &lt;li&gt;Oregano&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;variante-süß&quot;&gt;Variante Süß&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Banane&lt;/li&gt;
+  &lt;li&gt;Nutella&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 28 Oct 2018 00:00:00 +0200</pubDate>
+        <link>http://food.dmerkert.de/Crepes/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Crepes/</guid>
         
         <category>hauptgericht</category>
         
@@ -239,91 +334,6 @@ verschwinden&lt;/li&gt;
         <guid isPermaLink="true">http://food.dmerkert.de/K%C3%A4sebr%C3%B6tchen/</guid>
         
         <category>brot</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Flammkuchen</title>
-        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/Flammkuchenteig/&quot;&gt;Flammkuchenteig&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Crème fraîche&lt;/li&gt;
-  &lt;li&gt;Zwiebeln&lt;/li&gt;
-  &lt;li&gt;Speck&lt;/li&gt;
-  &lt;li&gt;Muskatnuss, Salz&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Teig teilen und sehr dünn ausrollen&lt;/li&gt;
-  &lt;li&gt;Mit Crème fraîche bestreichen und mit Muskatnuss und Salz bestreuen&lt;/li&gt;
-  &lt;li&gt;Zwiebelringe und Speck verteilen&lt;/li&gt;
-  &lt;li&gt;Ofen auf 250 Grad (Ober- und Unterhitze mit Umluft) vorheizen&lt;/li&gt;
-  &lt;li&gt;Flammkuchen circa 5 Minuten backen&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 13 Jan 2018 00:00:00 +0100</pubDate>
-        <link>http://food.dmerkert.de/Flammkuchen/</link>
-        <guid isPermaLink="true">http://food.dmerkert.de/Flammkuchen/</guid>
-        
-        <category>hauptgericht</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Flammkuchenteig</title>
-        <description>&lt;h2 id=&quot;zutaten-für-3-flammkuchen&quot;&gt;Zutaten (für 3 Flammkuchen)&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;225g Mehl&lt;/li&gt;
-  &lt;li&gt;1 Eigelb&lt;/li&gt;
-  &lt;li&gt;115ml kaltes Wasser&lt;/li&gt;
-  &lt;li&gt;1 großer Schuss Olivenöl&lt;/li&gt;
-  &lt;li&gt;3-4g Salz&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Kneten, so dass ein weicher Teig entsteht&lt;/li&gt;
-  &lt;li&gt;10 min ruhen lassen&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 22 Oct 2017 00:00:00 +0200</pubDate>
-        <link>http://food.dmerkert.de/Flammkuchenteig/</link>
-        <guid isPermaLink="true">http://food.dmerkert.de/Flammkuchenteig/</guid>
-        
-        <category>grundrezept</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Pizzateig (einfach)</title>
-        <description>&lt;h2 id=&quot;zutaten-3-pizzas&quot;&gt;Zutaten (3 Pizzas)&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;1/2 Hefewürfel&lt;/li&gt;
-  &lt;li&gt;200 ml lauwarmes Wasser&lt;/li&gt;
-  &lt;li&gt;1 TL Honig&lt;/li&gt;
-  &lt;li&gt;350 g Mehl&lt;/li&gt;
-  &lt;li&gt;1 TL Salz&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Hefe mit Wasser, Honig und Salz vermischen&lt;/li&gt;
-  &lt;li&gt;Alles gut verkneten und 60 Minuten gehen lassen&lt;/li&gt;
-  &lt;li&gt;Teig in drei Teile teilen und sehr dünn ausrollen&lt;/li&gt;
-  &lt;li&gt;Pizzaform mit Olivenöl benetzen und Teig hinein geben&lt;/li&gt;
-  &lt;li&gt;Ofen auf 250 Grad (Ober- und Unterhitze mit Umluft) vorheizen&lt;/li&gt;
-  &lt;li&gt;Pizzaform auf den Boden stellen und ca 5 Minuten backen (gibt lecker dünnen und knusprigen Boden)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 08 Oct 2017 00:00:00 +0200</pubDate>
-        <link>http://food.dmerkert.de/Pizzateig-einfach/</link>
-        <guid isPermaLink="true">http://food.dmerkert.de/Pizzateig-einfach/</guid>
-        
-        <category>grundrezept</category>
         
         
       </item>
