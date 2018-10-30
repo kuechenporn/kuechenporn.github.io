@@ -5,9 +5,71 @@
     <description>Leckere Rezepte und Bilder von selbstgekochtem Essen.</description>
     <link>http://food.dmerkert.de/</link>
     <atom:link href="http://food.dmerkert.de/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Oct 2018 14:29:32 +0100</pubDate>
-    <lastBuildDate>Sun, 28 Oct 2018 14:29:32 +0100</lastBuildDate>
+    <pubDate>Tue, 30 Oct 2018 22:19:24 +0100</pubDate>
+    <lastBuildDate>Tue, 30 Oct 2018 22:19:24 +0100</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Kaiserschmarrn</title>
+        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;4 EL Mehl&lt;/li&gt;
+  &lt;li&gt;2 EL Sauerrahm&lt;/li&gt;
+  &lt;li&gt;10 EL Milch&lt;/li&gt;
+  &lt;li&gt;4 Eier&lt;/li&gt;
+  &lt;li&gt;4 cl Rum&lt;/li&gt;
+  &lt;li&gt;1 Pr Salz&lt;/li&gt;
+  &lt;li&gt;Puderzucker&lt;/li&gt;
+  &lt;li&gt;Preiselbeeren / Apfelmuß&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mehl mit Milch dickflüssig rühren&lt;/li&gt;
+  &lt;li&gt;Sauerrahm glatt unterrühren&lt;/li&gt;
+  &lt;li&gt;Eier schlampig untermischen&lt;/li&gt;
+  &lt;li&gt;Ruhen lassen&lt;/li&gt;
+  &lt;li&gt;Butter erhitzen, Teig einfüllen, Deckel drauf und Hitze auf Mitte stellen&lt;/li&gt;
+  &lt;li&gt;nach 5 Minuten umdrehen&lt;/li&gt;
+  &lt;li&gt;Hitze hoch und 2-3 Minuten mit Deckel anbraten&lt;/li&gt;
+  &lt;li&gt;Zerteilen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 30 Oct 2018 00:00:00 +0100</pubDate>
+        <link>http://food.dmerkert.de/Kaiserschmarrn/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Kaiserschmarrn/</guid>
+        
+        <category>suessspeise</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Käse-Schinken-Stangen</title>
+        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Blätterteig&lt;/li&gt;
+  &lt;li&gt;Kräuterfrischkäse&lt;/li&gt;
+  &lt;li&gt;Käse (rezent, fettreich)&lt;/li&gt;
+  &lt;li&gt;Kochschinken&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Blätterteig mit Frischkäse bestreichen&lt;/li&gt;
+  &lt;li&gt;Mit geriebenem Käse und Schinkenstücken belegen&lt;/li&gt;
+  &lt;li&gt;Streifen schneiden und verdrehen&lt;/li&gt;
+  &lt;li&gt;Bei 180 Grad backen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 30 Oct 2018 00:00:00 +0100</pubDate>
+        <link>http://food.dmerkert.de/Kaese-Schinken-Stangen/</link>
+        <guid isPermaLink="true">http://food.dmerkert.de/Kaese-Schinken-Stangen/</guid>
+        
+        <category>sonstiges</category>
+        
+        
+      </item>
     
       <item>
         <title>Haschee</title>
@@ -266,74 +328,6 @@ verschwinden&lt;/li&gt;
         <guid isPermaLink="true">http://food.dmerkert.de/R%C3%B6stkartoffeln/</guid>
         
         <category>hauptgericht</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Kartoffelpuffer</title>
-        <description>&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;vorwiegend festkochende Karfoffeln&lt;/li&gt;
-  &lt;li&gt;Mehl&lt;/li&gt;
-  &lt;li&gt;Fleischkäse&lt;/li&gt;
-  &lt;li&gt;Zwiebeln&lt;/li&gt;
-  &lt;li&gt;Eier&lt;/li&gt;
-  &lt;li&gt;Chorizo&lt;/li&gt;
-  &lt;li&gt;Bohnenkraut, Thymian&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Kartoffeln fein reiben&lt;/li&gt;
-  &lt;li&gt;geriebene Kartoffeln in einem Sieb ausdrücken und den Saft auffangen&lt;/li&gt;
-  &lt;li&gt;ausgedrückte Kartoffeln mit Mehl bestäuben&lt;/li&gt;
-  &lt;li&gt;Fleischkäse, Zwiebeln und Chorizo sehr klein schneiden und zu den Kartoffeln geben&lt;/li&gt;
-  &lt;li&gt;Eier zu den Kartoffeln geben&lt;/li&gt;
-  &lt;li&gt;Saft der Kartoffeln vorsichtig abgießen und die Stärke, die sich am Boden gebildet hat, zu der Masse geben&lt;/li&gt;
-  &lt;li&gt;Mit Salz, Pfeffer, Bohnenkraut und Thymian würzen&lt;/li&gt;
-  &lt;li&gt;In einer Pfanne von beiden Seiten langsam die Puffer anbraten&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 12 Feb 2018 00:00:00 +0100</pubDate>
-        <link>http://food.dmerkert.de/Kartoffelpuffer/</link>
-        <guid isPermaLink="true">http://food.dmerkert.de/Kartoffelpuffer/</guid>
-        
-        <category>hauptgericht</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Käsebrötchen</title>
-        <description>&lt;h2 id=&quot;zutaten-8-brötchen&quot;&gt;Zutaten (8 Brötchen)&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;225g Mehl&lt;/li&gt;
-  &lt;li&gt;1 Prise Salz&lt;/li&gt;
-  &lt;li&gt;3 TL Backpulver&lt;/li&gt;
-  &lt;li&gt;50g Butter&lt;/li&gt;
-  &lt;li&gt;200g herzhafter Käse (oder auch mehr)&lt;/li&gt;
-  &lt;li&gt;1/2 TL Senfkörner&lt;/li&gt;
-  &lt;li&gt;1/2 TL Pfefferkörner&lt;/li&gt;
-  &lt;li&gt;150ml Milch&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;zubereitung&quot;&gt;Zubereitung&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Mehl, Salz, Backpulver, zermahlenen Senf vermischen&lt;/li&gt;
-  &lt;li&gt;Butter in die Masse bröseln&lt;/li&gt;
-  &lt;li&gt;Käse reiben und untermischen&lt;/li&gt;
-  &lt;li&gt;Milch einrühren&lt;/li&gt;
-  &lt;li&gt;Teig zu einer Scheibe formen und Achtel schneiden&lt;/li&gt;
-  &lt;li&gt;Mit zermahlenem Pfeffer bestreuen&lt;/li&gt;
-  &lt;li&gt;Bei 220 Grad 15 Minuten backen&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 13 Jan 2018 00:00:00 +0100</pubDate>
-        <link>http://food.dmerkert.de/K%C3%A4sebr%C3%B6tchen/</link>
-        <guid isPermaLink="true">http://food.dmerkert.de/K%C3%A4sebr%C3%B6tchen/</guid>
-        
-        <category>brot</category>
         
         
       </item>
